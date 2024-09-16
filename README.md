@@ -11,4 +11,4 @@
 
 
 - [x] vscode
-<img align="right" alt="GIF" height="500px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/vs1.png" />
+<img align="center" alt="GIF" height="450px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/vs1.png" />
