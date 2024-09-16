@@ -6,7 +6,7 @@
 
 <img align="left" alt="GIF" height="200px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/nv1.png" />
 <img align="center" alt="GIF" height="200px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/nv2.png" />
-<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/nv3.png" />
+<img align="center" alt="GIF" height="200px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/nv3.png" />
 
 
 
