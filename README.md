@@ -17,3 +17,4 @@
 - [X] firefox setup
 - I have used AnimatedFox userchome.css with some tweeks
 <img align="center" alt="GIF" height="450px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/fire1.png" />
+- For setup go through this readme -> [installation](https://github.com/mikan-senpai/workflow-stuff/blob/master/firefox-setup/README.md)
