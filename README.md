@@ -13,8 +13,12 @@
 - [x] vscode
 <img align="center" alt="GIF" height="450px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/vs1.png" />
 
-
 - [X] firefox setup
+- lately I am using safari user.css
+<img align="center" alt="GIF" height="450px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/fire2.png" />
+- For setup go through this readme -> <a href="https://github.com/mikan-senpai/workflow-stuff/blob/master/firefox-setup/safari-firefox-setup/README.md">Installation</a>
+
+
 - I have used AnimatedFox userchome.css with some tweeks
 <img align="center" alt="GIF" height="450px" src="https://raw.githubusercontent.com/mikan-senpai/ide-stuff/master/asset/fire1.png" />
 - For setup go through this readme -> <a href="https://github.com/mikan-senpai/workflow-stuff/blob/master/firefox-setup/README.md">Installation</a>
